@@ -1,8 +1,8 @@
 # Techgig_code_gladiators
 ##Techgig Code Gladiators 2023<br>
 
-<h2>Brief Description of the Problem at hand<h2> ​
-
+<h2>Brief Description of the Problem at hand</h2> ​
+<h4>
 In this problem, the data set has a column 'IS_HCP' and 'TAXONOMONY' which we have to predict using the other 13 features provided in the data set. The most promising features that could be used are 'USERCITY', 'URLS' and 'KEYWORDS'. Since, the URLS provided here have the keywords extracted from thus, we need not apply any form of Web Scraper. This reduces our task by a significantly. ​
 
 ![channeltype_df](https://github.com/meetshingala7/Techgig_code_gladiators/assets/123167152/44a57cf2-f9b4-4b7c-afc2-2cc808e0d77e)

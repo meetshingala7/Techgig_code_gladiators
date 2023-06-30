@@ -13,11 +13,12 @@ For training Data<br>
 For testing Data<br>
 ![devicetype_dft](https://github.com/meetshingala7/Techgig_code_gladiators/assets/123167152/8691fc97-f2ef-4d03-a3ed-ecea706d69af)
 
-<br>
-The below mentioned graph shows how the length of keywords is spread out in the training data set<br>
+<br><br><br>
+The below mentioned graph shows how the length of keywords is spread out in the training data set<br><br><br>
 ![lengthoflist_df](https://github.com/meetshingala7/Techgig_code_gladiators/assets/123167152/faf42858-5385-41ac-84d6-6583e2053f76)
-The below mentioned graph shows how the length of keywords is spread out in the training data set<br>
+<br><br>The below mentioned graph shows how the length of keywords is spread out in the training data set<br><br><br>
 ![lengthoflist_dft](https://github.com/meetshingala7/Techgig_code_gladiators/assets/123167152/99313f49-2094-49ea-9725-eb93bef8e446)
-
+<br>The below mentioned graph represents how the data spreads acrooss the cities for the testing dataset<br><br>
 ![usercity_df](https://github.com/meetshingala7/Techgig_code_gladiators/assets/123167152/8e017efb-f039-4352-8dff-f9a71cd3fb5e)
+<br>The below mentioned graph represents how the data spreads acrooss the cities for the testing dataset<br><br>
 ![usercity_dft](https://github.com/meetshingala7/Techgig_code_gladiators/assets/123167152/d4981c8a-89e1-41d7-a5da-7b378fce18bb)
